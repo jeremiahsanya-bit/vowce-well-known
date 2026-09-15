@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.mixture3_app",
-    "sha256_cert_fingerprints": ["YOUR_SHA256_FINGERPRINT"]
+    "sha256_cert_fingerprints": ["C9:4C:CB:0C:73:B7:B4:42:37:6B:4C:3E:EA:4F:63:35:19:AF:58:21:1E:38:BC:CC:47:FB:CB:0E:D3:D7:D9:28"]
   }
 }]
